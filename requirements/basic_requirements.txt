@@ -1,5 +1,5 @@
 opencv-python==4.9.0.80
-opencv-python-headless==4.2.0.34
+opencv-python-headless==4.8.1.78
 mmcv==2.0.0
 mmdet==3.0.0
 mmengine==0.10.3
